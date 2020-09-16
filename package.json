@@ -1,0 +1,23 @@
+{
+  "name": "reviews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AbstractParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "cyrillic-to-translit-js": "^3.1.0",
+    "jimp": "^0.14.0",
+    "pg": "^8.3.0",
+    "pg-format": "^1.0.4",
+    "rucaptcha-2captcha": "^2.0.2",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "sharp": "^0.25.4",
+    "winston": "^3.3.3"
+  }
+}
